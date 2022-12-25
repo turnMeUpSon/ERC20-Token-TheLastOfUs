@@ -1,4 +1,4 @@
-# I created smart contarcts that implemented ERC20 tokens of The Last Of Us game
+# I created smart contarcts that implemented ERC20 tokens of different types of characters of The Last Of Us game
 
 ![Image](https://github.com/turnMeUpSon/ERC20-Tokens-TheLastOfUs/blob/main/Screenshot%20from%202022-12-25%2018-24-52.png)
 ![Image](https://github.com/turnMeUpSon/ERC20-Tokens-TheLastOfUs/blob/main/tlou.jpg)
